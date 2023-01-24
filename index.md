@@ -2,18 +2,18 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Home"
+description: "ASU Collections"
 permalink: /
 ---
 
-# Collections
+# ASU Collections
 {: .fs-9 }
 
 Website dedicated to the ASU Biocollections ([ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2)). Created by [Biocollections](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2). 
 {: .fs-6 .fw-300 }
 
-[ASUCOB](https://anthribidae.github.io/anthribidae/anthribidae/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [ASULOB](https://anthribidae.github.io/anthribidae/gallery/){: .btn .fs-5 .mb-4 .mb-md-0 } 
-[ASUHIC](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2%2C1&taxa=Anthribidae&usethes=1&taxontype=4){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
+[ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [ASULOB](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=3){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[ASUHIC](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=1){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
 <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUHIC0101/ASUHIC0101034_habitus_dorsal_1596058698.jpg" alt="Eugonus">
