@@ -1,6 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: Collections
 description: Information about the ASU Collections
+
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
 , "docs/tests/"
