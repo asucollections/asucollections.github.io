@@ -16,7 +16,7 @@ Website dedicated to the ASU Biocollections ([ASUCOB](https://serv.biokic.asu.ed
 [ASUHIC](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2%2C1&taxa=Anthribidae&usethes=1&taxontype=4){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
-<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg" alt="Eugonus">
+<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUHIC0101/ASUHIC0101034_habitus_dorsal_1596058698.jpg" alt="Eugonus">
 
 
 
