@@ -1,6 +1,16 @@
-Title Gelechiidae
+---
+layout: default
+title: Gelechiidae
+parent: ASUHIC
+grand_parent: Home
+has_children: false
+nav_order: 1
+---
 
-           Gelechiidae (Lepidoptera: Gelechioidea) is one of the largest families of microlepidoptera and includes more than 4,600 described species belonging to about 500 genera in the world (Hodges, 1999).  Approximately 1,500 species occur in the Palearctic Region (Piskunov, 1990), and about 630 species occur in the Nearctic Region (Hodges, 1983).  A large number of species are also present in the Oriental, Neotropical, Ethiopian, and Australian Regions (Becker, 1984; Common, 1990; Janse, 1958–1963;Heppner, 1991; Nielsen and Common, 1991;Park, 1992; Vári and Kroon, 1986). 
+
+# Gelechiidae Stainton, 1854
+
+Gelechiidae (Lepidoptera: Gelechioidea) is one of the largest families of microlepidoptera and includes more than 4,600 described species belonging to about 500 genera in the world (Hodges, 1999).  Approximately 1,500 species occur in the Palearctic Region (Piskunov, 1990), and about 630 species occur in the Nearctic Region (Hodges, 1983).  A large number of species are also present in the Oriental, Neotropical, Ethiopian, and Australian Regions (Becker, 1984; Common, 1990; Janse, 1958–1963;Heppner, 1991; Nielsen and Common, 1991;Park, 1992; Vári and Kroon, 1986). 
 
            Gelechiidae is similar to other gelechioid families in that its members have a scaled proboscis and strongly recurved labial palpus.  Gelechiidae differ from other gelechioid families by having a combination of the following characters: 1) hindwing subrectangular to trapezoidal with sinuous or concave termen and prominent apex, 2) forewing lanceolate to elongate–ovate with CuP absent, 3) the retinaculum of the wing–coupling mechanism on the radial vein of the female forewing, 4) labial palpus long, second segment often with ventral brush, third segment long, acute, rarely with short dorsal brush of rough scales, 5) male gnathos forming a pair of lateral, articulated, symmetrical sclerites with an articulated, mesial hook (Hodges, 1986, 1999).
 
