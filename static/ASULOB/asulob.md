@@ -5,7 +5,7 @@ has_children: true
 nav_order: 4
 ---
 
-# Arizona State University Lois B. O'Brien Collection (ASUCOB)
+# Arizona State University Lois B. O'Brien Collection (ASULOB)
 
 <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asulob.jpg" alt="logo" width="100" height="90"> 
 
