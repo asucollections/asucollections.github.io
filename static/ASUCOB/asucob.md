@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ASUHIC
+title: ASUCOB
 has_children: true
 nav_order: 3
 ---
