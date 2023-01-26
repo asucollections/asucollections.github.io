@@ -65,15 +65,15 @@ $yellow-100: #fadf50 !default;
 $yellow-200: #f7d12e !default;
 $yellow-300: #e7af06 !default;
 
-$red-000: #cc4e75 !default;
-$red-100: #ad3258 !default;
-$red-200: #992549 !default;
-$red-300: #8C1D40 !default;
+$red-000: #f77e7e !default;
+$red-100: #f96e65 !default;
+$red-200: #e94c4c !default;
+$red-300: #dd2e2e !default;
 
-$maroon-000: #cc4e75;
-$maroon-100: #ad32581;
-$maroon-200: #992549;
-$maroon-300: #8C1D40;
+$pink-000: #f77ef1;
+$pink-100: #f967f1;
+$pink-200: #e94ee1;
+$pink-300: #dd2cd4;
 
 $body-background-color: $white !default;
 $sidebar-color: $grey-lt-000 !default;
@@ -86,12 +86,9 @@ $body-text-color: $grey-dk-100 !default;
 $body-heading-color: $grey-dk-300 !default;
 $search-result-preview-color: $grey-dk-000 !default;
 $nav-child-link-color: $grey-dk-100 !default;
-$link-color: $red-100 !default;
-$btn-primary-color: $red-200 !default;
+$link-color: $red-100;
+$btn-primary-color: $red-200;
 $base-button-color: #f7f7f7 !default;
-
-$link-color: $maroon-100;
-$btn-primary-color: $maroon-400;
 
 //
 // Spacing
