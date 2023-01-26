@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "ASU Biocollections"
+description: "ASU Insect Collections"
 permalink: /
 ---
 
 # ASU Insect Collections
 {: .fs-9 }
 
-Website dedicated to the ASU Biocollections ([ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2)). Created by [Biocollections](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2). 
+Website dedicated to the ASU Biocollections ([BIOKIC](https://biokic.asu.edu/)). Created by [Biocollections](https://biokic.asu.edu/). 
 {: .fs-6 .fw-300 }
 
 [ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [ASULOB](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=3){: .btn .fs-5 .mb-4 .mb-md-0 } 
