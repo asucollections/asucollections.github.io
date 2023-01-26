@@ -6,7 +6,7 @@ description: "ASU Collections"
 permalink: /
 ---
 
-# ASU Collections
+# ASU Insect Collections
 {: .fs-9 }
 
 Website dedicated to the ASU Biocollections ([ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2)). Created by [Biocollections](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2). 
