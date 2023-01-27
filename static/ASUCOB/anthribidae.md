@@ -32,7 +32,7 @@ The following is a list of the available Anthribidae taxa in [ASUCOB](https://as
 
 ## Subfamily Anthribinae
 
-At least 107 genera available in [ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribinae&usethes=1&taxontype=2). 
+At least 107 genera available in ASUCOB. Explore the digitized specimens in the [ecdysis Portal](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribinae&usethes=1&taxontype=2). 
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014259_lateral_edited_1624045501.jpg" alt="Gymnognathus daguanus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611297) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014259_dorsal_edited_1624047803.jpg" alt="Gymnognathus daguanus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611297) | 
 |:--:| 
@@ -222,7 +222,7 @@ At least 107 genera available in [ASUCOB](https://serv.biokic.asu.edu/ecdysis/co
 
 ## Subfamily Choraginae
 
-At least 19 genera available in [ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Choraginae&usethes=1&taxontype=2).
+At least 19 genera available in ASUCOB. Explore the digitized specimens in the [ecdysis Portal](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribinae&usethes=1&taxontype=2). 
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015451_lateral_edited_1661108582.jpg" alt="Araecerus fasciculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=1154243) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015451_dorsal_1661130059.jpg" alt="Araecerus fasciculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=1154243)| 
 |:--:| 
@@ -265,7 +265,7 @@ At least 19 genera available in [ASUCOB](https://serv.biokic.asu.edu/ecdysis/col
 
 ## Subfamily Urodontinae
 
-Two genera available in [ASUCOB](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Urodontinae&usethes=1&taxontype=2).
+Two genera available in ASUCOB. Explore the digitized specimens in the [ecdysis Portal](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribinae&usethes=1&taxontype=2). 
 
 - _Bruchela_ Dejean, 1821: 78
 - _Urodontellus_ Louw, 1993: 70
