@@ -24,7 +24,7 @@ By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2023)
 
 ---
 
-The following is a list of the available Anthribidae taxa in [ASUCOB](https://asucollections.github.io/). Subamilies and tribes names according to [Bouchard el al.](https://zookeys.pensoft.net/articles.php?id=4001) (2011). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). For more information visit the [Anthribidae](https://anthribidae.github.io) website.
+The following is a list of the available Anthribidae taxa in [ASUCOB](https://asucollections.github.io/). Subamilies and tribes names according to [Bouchard el al.](https://zookeys.pensoft.net/articles.php?id=4001) (2011). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). For more information visit the [Anthribidae](https://anthribidae.github.io) website. Digitized specimens available in the [Symbiota ecdysis Portal](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxontype=3&reset=1&taxa=Anthribidae) and [GBIF](https://gbif.org).
 
 ---
 
