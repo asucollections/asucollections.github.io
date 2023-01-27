@@ -14,7 +14,7 @@ More than 8,600 specimens of at least 428 species of Anthribidae (Coleoptera: Cu
 
 By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2023)
 
-<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079299_habitus_dorsal_1_1429125698_web.jpg">  
+<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015494_dorsal_edited_1616810133.jpg">  
 
 ---
 
