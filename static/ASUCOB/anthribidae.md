@@ -2,7 +2,6 @@
 layout: default
 title: Anthribidae
 parent: ASUCOB
-grand_parent: Home
 has_children: false
 nav_order: 2
 ---
