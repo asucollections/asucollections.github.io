@@ -12,7 +12,7 @@ permalink: /
 Website dedicated to the ASU Biocollections ([BIOKIC](https://biokic.asu.edu/)). Created by [Biocollections](https://biokic.asu.edu/). 
 {: .fs-6 .fw-300 }
 
-[ASUCOB](https://asucollections.github.io/ASUHIC/asucob/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [ASULOB](https://asucollections.github.io/ASUHIC/asulob/){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[ASUCOB](https://asucollections.github.io/ASUCOB/asucob/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [ASULOB](https://asucollections.github.io/ASULOB/asulob/){: .btn .fs-5 .mb-4 .mb-md-0 } 
 [ASUHIC](https://asucollections.github.io/ASUHIC/asuhic/){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
