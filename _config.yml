@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
-title: Collections
-description: Information about the Collections
+title: ASU Insect Collections
+description: Information about the Insect Collections at Arizona State University.
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
