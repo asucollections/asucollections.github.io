@@ -49,7 +49,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "ASU Biocollections":
-    - "https://asucollections.github.io"
+    - "https://sols.asu.edu/research/natural-history-collections"
 
 plugins:
   - jekyll-seo-tag
