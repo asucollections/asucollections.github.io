@@ -14,6 +14,8 @@ More than 8,600 specimens of at least 428 species of Anthribidae (Coleoptera: Cu
 
 By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2023)
 
+<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079299_habitus_dorsal_1_1429125698_web.jpg">  
+
 ---
 
 ## Table of Contents
@@ -61,7 +63,7 @@ At least 107 genera available in [ASUCOB](https://serv.biokic.asu.edu/ecdysis/co
 - _Nessiara_ Pascoe, 1860: 60
 - _Phaulimia_ Pascoe, 1859; 60
 
-## Tribe Cratoparini
+### Tribe Cratoparini
 - _Euparius_ Schoenherr, 1823: 1135
 - _Pseudeuparius_ Jordan, 1914: 344
 
