@@ -50,10 +50,14 @@ At least three genera available in ASUCOB. Explore the digitized specimens in th
 - _Doydirhynchus_ Dejean, 1821: 79
 - _Lecontellus_ Kuschel, 1989: 153
 
+---
+
 ## Subfamily Nemonychinae
 
 One genus available in ASUCOB and ASUHIC. Explore the digitized specimens in the [ecdysis Portal](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxa=Anthribinae&usethes=1&taxontype=2). 
 - _Nemonyx_ Redtenbacher, 1845: 96
+
+---
 
 ## Subfamily Rhinorrhynchinae
 
