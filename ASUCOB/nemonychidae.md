@@ -6,7 +6,7 @@ has_children: false
 nav_order: 1
 ---
 
-# Family Nemonychidae Bedel, 1882
+# Family Nemonychidae Bedel
 
 More than 500 specimens of at least 40 species of Nemonychidae (Coleoptera: Curculionoidea) are available at ASUCOB and ASUHIC. 
 {: .fs-5 .fw-300 }
