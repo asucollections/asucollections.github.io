@@ -28,12 +28,12 @@ The following list is drived from a revised classification of Gelechiidae by Kar
 
 ---
 
-### Subfamily Anacampsinae
+#### Subfamily Anacampsinae
 
-### Subfamily Anomologinae
+#### Subfamily Anomologinae
 
-### Subfamily Apatetrinae
+#### Subfamily Apatetrinae
 
-### Subfamily Dichomeridinae
+#### Subfamily Dichomeridinae
 
 ---
