@@ -21,7 +21,12 @@ The following list is drived from a revised classification of Gelechiidae by Kar
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
+### Subfamily Anacampsinae
+
+### Subfamily Anomologinae
+
+### Subfamily Apatetrinae
+
+### Subfamily Dichomeridinae
 
 ---
