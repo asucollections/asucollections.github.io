@@ -18,8 +18,15 @@ Meyrick (1925) proposed the first suprageneric classification of the Gelechiidae
 
 The following list is drived from a revised classification of Gelechiidae by Karsholt et al. (2013) based on molecular analysis. 
 
+---
+
 ## Table of Contents
 {: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ### Subfamily Anacampsinae
 
