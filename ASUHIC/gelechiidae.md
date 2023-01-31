@@ -28,6 +28,8 @@ The following list is drived from a revised classification of Gelechiidae by Kar
 
 ### Subfamily Anacampsinae
 #### Tribe Anacampsini
+- _Anacampsis_ Curtis, 1827
+
 #### Tribe Chelariini
 
 ### Subfamily Anomologinae
