@@ -260,7 +260,7 @@ At least 19 genera available in ASUCOB. Explore the digitized specimens in the [
 
 - _Valenfriesia_ Alonso-Zarazaga & Lyal, 1999: 38
 
-### Choraginae _incertae sedis__
+### Choraginae _incertae sedis_
 
 - _Liromus_ Holloway, 1982: 136
 
