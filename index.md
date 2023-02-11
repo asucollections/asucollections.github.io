@@ -10,15 +10,28 @@ permalink: /
 # ASU Insect Collections
 {: .fs-9 }
 
-Website dedicated to the ASU Biocollections ([BIOKIC](https://biokic.asu.edu/)). Created by [Biocollections](https://biokic.asu.edu/). 
+Welcome to the ASU Insect Collections website! Browse the site to explore the collections, holdings, and associated researchers. You can visit us and the rest of the [ASU Biocollections](https://sols.asu.edu/research/natural-history-collections) at the Biodiversity Knowledge Integration Center ([BIOKIC](https://biokic.asu.edu/)), in Tempe, AZ, USA. 
 {: .fs-6 .fw-300 }
+
+{: .highlight }
+For any information and to arrange a visit or loan, please contact Curator [Dr. Nico Franz](https://search.asu.edu/profile/1804402) (nico.franz@asu.edu) or Collection Manager [Dr. Sangmi Lee](https://search.asu.edu/profile/1876693) (slee281@asu.edu).
 
 [ASUHIC](https://asucollections.github.io/collections/#arizona-state-university-hasbrouck-insect-collection-asuhic){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [ASUCOB](https://asucollections.github.io/collections/#arizona-state-university-charles-w-obrien-collection-asucob){: .btn .fs-5 .mb-4 .mb-md-0 } 
 [ASULOB](https://asucollections.github.io/collections/#arizona-state-university-lois-b-obrien-collection-asulob){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
+---
 
-<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUHIC0101/ASUHIC0101034_habitus_dorsal_1596058698.jpg" alt="Eugonus">
+## Table of Contents
+{: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
+---
+
+| <img src="https://github.com/asucollections/asucollections.github.io/blob/main/static/BioKIC2022.jpg?raw=true" alt="BioKIC"> <img src="https://github.com/asucollections/asucollections.github.io/blob/main/static/BioKIC2022Entrance2022.jpg?raw=true" alt="BioKIC" width="320" height="213.4"> <img src="https://github.com/asucollections/asucollections.github.io/blob/main/static/BioKIC2022Sign2022.jpg?raw=true" alt="BioKIC" width="320" height="213.4"> <img src="https://github.com/asucollections/asucollections.github.io/blob/main/static/BioKIC2022Lobby2022.jpg?raw=true" alt="BioKIC" width="320" height="213.4"> | 
+|:--:| 
+|**ASU Biodiversity Knowledge Integration Center**. Main entrance and lobby. Images: Samanta Orellana.|
 
 
 
