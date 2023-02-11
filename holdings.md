@@ -12,7 +12,7 @@ nav_order: 3
 Explore the groups available at the [Arizona State University Biocollections](https://asucollections.github.io/).
 {: .fs-5 .fw-300 }
 
-[Digitized Collections](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2%2C1%2C3&taxa=Insecta&usethes=1&taxontype=4){: .btn .btn-green .fs-5}  [GBIF](https://www.gbif.org/occurrence/search?basis_of_record=PRESERVED_SPECIMEN&publishing_org=814cdfb5-d4f8-4453-815f-ea5df98e76bf&taxon_key=216){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[Digitized Collections](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2%2C1%2C3&taxa=Insecta&usethes=1&taxontype=4){: .btn .btn-green .fs-5}  [GBIF](https://www.gbif.org/occurrence/search?basis_of_record=PRESERVED_SPECIMEN&publishing_org=814cdfb5-d4f8-4453-815f-ea5df98e76bf&taxon_key=216){: .btn .fs-5 } 
 
 ---
 
