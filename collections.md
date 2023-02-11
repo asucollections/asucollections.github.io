@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Collection Holdings
+parent: Home
 has_children: true
 nav_order: 2
 ---
