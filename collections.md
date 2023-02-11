@@ -11,9 +11,9 @@ nav_order: 2
 The Arizona State University Insect Collections are located in the [Biodiversity Knowledge Integration Center at ASU](https://biokic.asu.edu/), in Tempe, AZ, USA. The collections include the ASU Hasbrouck Insect Collection (ASUHIC) and the O'Brien Collections (ASUCOB, ASULOB), recently relocated at ASU.
 {: .fs-5 .fw-300 }
 
-| <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asuhic.jpg" alt="" width="100" height="90"> <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asucob.jpg" alt="logo" width="100" height="90"> <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asulob.jpg" alt="logo" width="100" height="90"> |
+<img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asuhic.jpg" alt="" width="100" height="90"> <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asucob.jpg" alt="logo" width="100" height="90"> <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asulob.jpg" alt="logo" width="100" height="90"> 
 
-For any information and to arrange a visit or loan, please contact Curator [Dr. Nico Franz](https://search.asu.edu/profile/1804402) (nico.franz@asu.edu) or Collection Manager [Dr. Sangmi Lee](https://search.asu.edu/profile/1876693) (slee281@asu.edu). 
+| For any information and to arrange a visit or loan, please contact Curator [Dr. Nico Franz](https://search.asu.edu/profile/1804402) (nico.franz@asu.edu) or Collection Manager [Dr. Sangmi Lee](https://search.asu.edu/profile/1876693) (slee281@asu.edu). |
 
 ---
 
