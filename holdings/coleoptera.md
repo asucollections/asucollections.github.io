@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coleoptera
-parent: Collection Holdings
+parent: Collections Holdings
 has_children: true
 nav_order: 1
 ---
