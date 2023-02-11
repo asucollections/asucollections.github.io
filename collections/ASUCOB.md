@@ -12,9 +12,10 @@ nav_order: 2
 
 [Digitized Collection](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2){: .btn .btn-green .fs-5}  [GBIF](https://www.gbif.org/dataset/14aff274-bf79-4a74-86ce-fb8b115adbf3){: .btn .fs-5 .mb-4 .mb-md-0 } [Bionomia](https://bionomia.net/dataset/14aff274-bf79-4a74-86ce-fb8b115adbf3){: .btn .fs-5 .mb-4 .mb-md-0 } 
 
-{: .highlight }
-For more information and to arrange a visit or loan, please contact Curator [Dr. Nico Franz] (https://search.asu.edu/profile/1804402) (nico.franz@asu.edu) or Collection Manager [Dr. Sangmi Lee] (https://search.asu.edu/profile/1876693) (slee281@asu.edu).
+---
 
+{: .highlight }
+For any information and to arrange a visit or loan, please contact Curator [Dr. Nico Franz](https://search.asu.edu/profile/1804402) (nico.franz@asu.edu) or Collection Manager [Dr. Sangmi Lee](https://search.asu.edu/profile/1876693) (slee281@asu.edu).
 
 ---
 
