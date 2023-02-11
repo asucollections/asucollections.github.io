@@ -16,8 +16,8 @@ Welcome to the ASU Insect Collections website!
 Browse the site to explore the collections, holdings, and associated researchers. You can visit us and the rest of the [ASU Biocollections](https://sols.asu.edu/research/natural-history-collections) at the Biodiversity Knowledge Integration Center ([BioKIC](https://biokic.asu.edu/)), in [Tempe, AZ, USA](https://goo.gl/maps/kvXP94gUn1AVs7b58). 
 {: .fs-5 .fw-300 }
 
-[ASUHIC](https://asucollections.github.io/collections/#arizona-state-university-hasbrouck-insect-collection-asuhic){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [ASUCOB](https://asucollections.github.io/collections/#arizona-state-university-charles-w-obrien-collection-asucob){: .btn .fs-5 .mb-4 .mb-md-0 } 
-[ASULOB](https://asucollections.github.io/collections/#arizona-state-university-lois-b-obrien-collection-asulob){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
+[ASUHIC](https://asucollections.github.io/collections/ASUHIC/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [ASUCOB](https://asucollections.github.io/collections/ASUCOB/){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[ASULOB](https://asucollections.github.io/collections/ASULOB/){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 ---
 
