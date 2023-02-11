@@ -4,7 +4,7 @@ title: Nemonychidae
 parent: Coleoptera
 grand_parent: Collection Holdings
 has_children: false
-nav_order: 1
+nav_order: 6
 ---
 
 # Family Nemonychidae Bedel
@@ -14,7 +14,7 @@ More than 500 specimens of at least 40 species of Nemonychidae (Coleoptera: Curc
 
 By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2023)
 
-[Digitized Specimens](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2%2C1&taxa=Nemonychidae&usethes=1&taxontype=2){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[Digitized Specimens](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2%2C1&taxa=Nemonychidae&usethes=1&taxontype=2){: .btn .btn-green .fs-5} [Anthribidae Website](https://anthribidae.github.io){: .btn .fs-5 } 
 
 <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0002/ASUCOB0002687_habitus_lateral_1571942747.jpg">  
 
