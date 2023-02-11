@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Lepidoptera
-parent: Collection Holdings
+title: Gelechiidae
+parent: Lepidoptera
 has_children: true
 nav_order: 4
 ---
 
 # Order Lepidoptera
 
-Specimens of Lepidoptera available at ASUHIC.
+Specimens of Gelechiidae available at ASUHIC.
 {: .fs-5 .fw-300 }
 
 
