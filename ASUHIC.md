@@ -1,8 +1,9 @@
 ---
 layout: default
-title: ASU Collections
+title: ASUHIC
+parent: ASU Insect Collections
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # Arizona State University Insect Collections
