@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Collection Holdings
+title: Collections Holdings
 has_children: true
 nav_order: 3
 ---
 
 
-# Collection Holdings 
+# Collections Holdings 
 {: .no_toc }
 
 Explore the groups available at the [Arizona State University Biocollections](https://asucollections.github.io/).
