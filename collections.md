@@ -13,6 +13,11 @@ The Arizona State University Insect Collections are located in the [Biodiversity
 
 <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asuhic.jpg" alt="" width="100" height="90"> <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asucob.jpg" alt="logo" width="100" height="90"> <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asulob.jpg" alt="logo" width="100" height="90"> 
 
+> {: .important }
+> > For any information and to arrange a visit or loan, please contact Curator [Dr. Nico Franz](https://search.asu.edu/profile/1804402) (nico.franz@asu.edu) or Collection Manager [Dr. Sangmi Lee](https://search.asu.edu/profile/1876693) (slee281@asu.edu).A paragraph
+
+
+
 | For any information and to arrange a visit or loan, please contact Curator [Dr. Nico Franz](https://search.asu.edu/profile/1804402) (nico.franz@asu.edu) or Collection Manager [Dr. Sangmi Lee](https://search.asu.edu/profile/1876693) (slee281@asu.edu). |
 
 ---
