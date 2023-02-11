@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ASU Collections
-has_children: true
+has_children: false
 nav_order: 2
 ---
 
