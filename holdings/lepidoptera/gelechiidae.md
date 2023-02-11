@@ -2,7 +2,7 @@
 layout: default
 title: Gelechiidae 
 parent: Lepidoptera
-grand_parent: Collection Holdings
+grand_parent: Collections Holdings
 has_children: false
 nav_order: 3
 ---
