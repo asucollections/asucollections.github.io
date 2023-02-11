@@ -10,7 +10,7 @@ nav_order: 1
 
 <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asuhic.jpg" alt="" width="100" height="90"> 
 
-[Digitized Collection](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=1){: .btn .btn-green .fs-5}  [GBIF](https://www.gbif.org/dataset/750b7bfc-3577-4b26-8aaf-3e4be9f0d639){: .btn .fs-5 .mb-4 .mb-md-0 } [Bionomia](https://bionomia.net/dataset/750b7bfc-3577-4b26-8aaf-3e4be9f0d639){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[Digitized Collection](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=1){: .btn .btn-green .fs-5}  [GBIF](https://www.gbif.org/dataset/750b7bfc-3577-4b26-8aaf-3e4be9f0d639){: .btn .fs-5} [Bionomia](https://bionomia.net/dataset/750b7bfc-3577-4b26-8aaf-3e4be9f0d639){: .btn .fs-5} 
 
 ---
 
