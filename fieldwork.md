@@ -7,6 +7,7 @@ nav_order: 4
 
 
 # Gallery
+{: .no_toc }
 
 Fieldwork by current and past members of the ASU Insect Collections.   
 {: .fs-5 .fw-300 }
