@@ -2,6 +2,7 @@
 layout: default
 title: Curculionidae
 parent: Coleoptera
+grand_parent: Collection Holdings
 has_children: false
 nav_order: 2
 ---
