@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Gelechiidae 
-parent: ASUHIC
+parent: Lepidoptera
+grand_parent: Collection Holdings
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Gelechiidae Stainton, 1854
