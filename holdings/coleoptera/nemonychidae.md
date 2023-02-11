@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nemonychidae
-parent: ASUCOB
+parent: Coleoptera
 has_children: false
 nav_order: 1
 ---
