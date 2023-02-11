@@ -2,7 +2,7 @@
 layout: default
 title: Anthribidae
 parent: Coleoptera
-grand_parent: Collection Holdings
+grand_parent: Collections Holdings
 has_children: false
 nav_order: 2
 ---
