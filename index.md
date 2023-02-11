@@ -10,7 +10,7 @@ permalink: /
 # ASU Insect Collections
 {: .fs-9 }
 
-Welcome to the ASU Insect Collections website! Browse the site to explore the collections, holdings, and associated researchers. You can visit us and the rest of the [ASU Biocollections](https://sols.asu.edu/research/natural-history-collections) at the Biodiversity Knowledge Integration Center ([BIOKIC](https://biokic.asu.edu/)), in Tempe, AZ, USA. 
+Welcome to the ASU Insect Collections website! Browse the site to explore the collections, holdings, and associated researchers. You can visit us and the rest of the [ASU Biocollections](https://sols.asu.edu/research/natural-history-collections) at the Biodiversity Knowledge Integration Center ([BIOKIC](https://biokic.asu.edu/)), in [Tempe, AZ, USA](https://goo.gl/maps/kvXP94gUn1AVs7b58). 
 {: .fs-6 .fw-300 }
 
 {: .highlight }
