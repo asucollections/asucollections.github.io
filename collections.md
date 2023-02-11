@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Collection Holdings
-parent: Home
+title: ASU Collections
 has_children: true
 nav_order: 2
 ---
 
-# Collecton Holdings
-
+# Arizona State University Insect Collections
 
 <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asuhic.jpg" alt="" width="100" height="90"> <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asucob.jpg" alt="logo" width="100" height="90"> <img src="https://serv.biokic.asu.edu/ecdysis/content/collicon/asu-asulob.jpg" alt="logo" width="100" height="90"> 
 
