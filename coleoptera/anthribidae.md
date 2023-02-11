@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Anthribidae
-parent: ASUCOB
+parent: Coleoptera
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 
