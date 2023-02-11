@@ -13,13 +13,3 @@ nav_order: 1
 
 <img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201501/ASUHIC0053600_habitus_lateral__1420757508_web.jpg" alt="Curculionidae" > 
 
----
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
