@@ -14,10 +14,3 @@ List of groups available at the Arizona State University Biocollections.
 
 ---
 
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
