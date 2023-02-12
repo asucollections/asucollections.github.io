@@ -14,7 +14,7 @@ More than 500 specimens of at least 40 species of Nemonychidae (Coleoptera: Curc
 
 By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2023)
 
-[Digitized Specimens](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2%2C1&taxa=Nemonychidae&usethes=1&taxontype=2){: .btn .btn-green .fs-5}
+[Digitized Specimens](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2%2C1&taxa=Nemonychidae&usethes=1&taxontype=2){: .btn .btn-green .fs-5} [GBIF](https://www.gbif.org/occurrence/search?publishing_org=814cdfb5-d4f8-4453-815f-ea5df98e76bf&taxon_key=8584){: .btn .fs-5}
 
 <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0002/ASUCOB0002687_habitus_lateral_1571942747.jpg">  
 
