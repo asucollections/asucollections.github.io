@@ -15,7 +15,7 @@ More than 8,600 specimens of at least 428 species of Anthribidae (Coleoptera: Cu
 
 By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2023)
 
-[Digitized Specimens](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxontype=3&reset=1&taxa=Anthribidae){: .btn .btn-green .fs-5} [Anthribidae Website](https://anthribidae.github.io){: .btn .fs-5} 
+[Digitized Specimens](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxontype=3&reset=1&taxa=Anthribidae){: .btn .btn-green .fs-5} [GBIF](https://www.gbif.org/occurrence/search?publishing_org=814cdfb5-d4f8-4453-815f-ea5df98e76bf&taxon_key=4206){: .btn .fs-5}  [Anthribidae Website](https://anthribidae.github.io){: .btn .fs-5} 
 
 <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015494_dorsal_edited_1616810133.jpg">  
 
@@ -29,7 +29,7 @@ By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2023)
 
 ---
 
-The following list includes the Anthribidae taxa available in [ASUCOB](https://asucollections.github.io/). Subfamilies and tribes names follow [Bouchard el al.](https://zookeys.pensoft.net/articles.php?id=4001) (2011). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). For more information visit the [Anthribidae](https://anthribidae.github.io) website. Digitized specimens available in the [Symbiota ecdysis Portal](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxontype=3&reset=1&taxa=Anthribidae) and [GBIF](https://gbif.org).
+The following list includes the Anthribidae taxa available in [ASUCOB](https://asucollections.github.io/). Subfamilies and tribes names follow [Bouchard et al.](https://zookeys.pensoft.net/articles.php?id=4001) (2011). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). For more information visit the [Anthribidae](https://anthribidae.github.io) website. Digitized specimens available in the [Symbiota ecdysis Portal](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2&taxontype=3&reset=1&taxa=Anthribidae) and [GBIF](https://gbif.org).
 
 ---
 
