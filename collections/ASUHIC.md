@@ -19,7 +19,7 @@ For any information and to arrange a visit or loan, please contact Curator [Dr. 
 
 ---
 
-<img src="https://github.com/asucollections/asucollections.github.io/blob/main/static/ASUHIC2022.jpg?raw=true" alt="ASUHIC"> 
+<img src="https://github.com/asucollections/asucollections.github.io/blob/main/static/ASUHIC_Scarabaeidae.jpeg?raw=true" alt="ASUHIC" height= "300"> 
 
 The ASU Frank F. Hasbrouck Insect Collection contains approximately 1,000,000 insect specimens, representing at least 25 orders, 390 families, 4,000 genera, 12,000 species and 1,240 subspecies. Most specimens are from the southwestern United States; however considerable representative material is also available from other North American regions and Mexico. The collection was largely developed through the activities of past faculty - Drs. Frank Hasbrouck, Gordon Castle and Mont Cazier - and their students. An extensive reprint collection is available to visiting researchers. 
 
