@@ -15,7 +15,7 @@ nav_order: 1
 ---
 
 {: .highlight }
-For any information and to arrange a visit or loan, please contact Curator [Dr. Nico Franz](https://search.asu.edu/profile/1804402) (nico.franz@asu.edu) or Collection Manager [Dr. Sangmi Lee](https://search.asu.edu/profile/1876693) (slee281@asu.edu).
+For any information and to arrange a visit or loan, please contact Collection Manager [Dr. Sangmi Lee](https://search.asu.edu/profile/1876693) (slee281@asu.edu).
 
 ---
 
